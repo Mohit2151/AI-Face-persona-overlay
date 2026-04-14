@@ -1,6 +1,6 @@
 # AI Face Emotion & Persona Overlay
 
-Created by Sahhhiiillllll
+Created by Mohit Dhayal
 
 Realtime webcam app that detects faces with MediaPipe, infers emotions (fast heuristics or optional DL), and draws a cyberpunk neon HUD with persona labels and screenshot support.
 
@@ -234,7 +234,7 @@ cd ai_face_persona
 
 # AI Face Emotion & Persona Overlay
 
-Build by Sahhhiiillllll
+Build by Mohit Dhayal
 
 This project shows a real-time webcam feed with face detection (MediaPipe), an
 emotion classifier (Hugging Face "joeddav/distilbert-base-uncased-go-emotions"), and
